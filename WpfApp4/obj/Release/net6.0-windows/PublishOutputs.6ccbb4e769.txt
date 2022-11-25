@@ -1,0 +1,5 @@
+C:\Users\Виктория\source\repos\WpfApp4\WpfApp4\bin\Release\net6.0-windows\publish\MyFirstConverter.exe
+C:\Users\Виктория\source\repos\WpfApp4\WpfApp4\bin\Release\net6.0-windows\publish\MyFirstConverter.dll
+C:\Users\Виктория\source\repos\WpfApp4\WpfApp4\bin\Release\net6.0-windows\publish\MyFirstConverter.deps.json
+C:\Users\Виктория\source\repos\WpfApp4\WpfApp4\bin\Release\net6.0-windows\publish\MyFirstConverter.runtimeconfig.json
+C:\Users\Виктория\source\repos\WpfApp4\WpfApp4\bin\Release\net6.0-windows\publish\MyFirstConverter.pdb

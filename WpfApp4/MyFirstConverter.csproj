@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\AppIcon.ico</ApplicationIcon>
+    <AssemblyName>MyFirstConverter</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Images\AppIcon.ico" />
+  </ItemGroup>
+
+</Project>
